@@ -72,3 +72,42 @@
     margin: 20px 15px 25px 25px;
     background-color: red;
 }
+.page3{
+    width: 980px;
+    height: 830px;
+    margin: 40px 40px 40px 40px;
+    background-color: blue;
+}
+.page31{
+    width: 900px;
+    height: 300px;
+    margin: 10px 40px 30px 40px;
+    background-color: black;
+}
+
+.page32{
+    width: 900px;
+    height: 240;
+    margin: 30px 50px 40px 30px;
+    background-color: black;
+}
+.page33{
+    width: 850px;
+    height: 100px;
+    margin: 10px 15px 20px 15px;
+    background-color:rebeccapurple;
+}
+.page34{
+    width: 850px;
+    height: 100px;
+    margin: 20px 15px 10px 15px;
+    background-color: rebeccapurple;
+}
+.page35{
+    width: 900px;
+    height: 200;
+    margin: 40px 60px 10px 20px;
+    background-color: black;
+}
+
+
