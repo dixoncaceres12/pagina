@@ -8,30 +8,18 @@
     margin: 60px;
     background-color: yellow;
     margin: 20px;
-    padding: 10px 0 30px 0;
-    
+    padding: 10px 0 30px 0;  
 }
-.page1 article, .page1 div,.page1 aside{
+.page12{
     width: 900px;
-
-}
-.page1 article{
     height: 600px;
-    margin: 0 30px 20px 40px;
-    background-color: blue;
+    margin: 10px 30px 20px 40px;
+    border-block-end-color: blue;
+}
 
-}
-.page1 div{
-    height: 400px;
-    margin: 0 10px 30px 60px;
-    background-color: red;
-    
-}
-.page1 asaide{
-    height: 300px;
-    margin: 0 40px 0 30px;
-    background-color: black;
-}
+
+
+
 
 .page2{
     width: 895px;
@@ -52,5 +40,35 @@
     height: 100px;
     margin: 30px 15px 30px 20px;
     background-color: black;
-
+}
+.page23{
+    width:800px;
+    height: 100px;
+    margin: 30px 15px 30px 20px;
+    background-color: black;
+}
+.page24{
+    width: 835px;
+    height: 350px;
+    margin: 15px 30px 20px 30px;
+    background-color: red;
+}
+.page25{
+    width: 800px;
+    height: 300px;
+    margin: 20px 25px 20px 10px;
+    background-color: black;
+    padding: 10px;
+}
+.page26{
+    width: 835px;
+    height: 200;
+    margin: 20px 15px 25px 25px;
+    background-color:red;
+}
+.page27{
+    width: 835px;
+    height: 200px;
+    margin: 20px 15px 25px 25px;
+    background-color: red;
 }
