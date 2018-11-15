@@ -104,10 +104,115 @@
     background-color: rebeccapurple;
 }
 .page35{
-    width: 900px;
-    height: 200;
+    width: 899px;
+    height: 200px;
+    padding-top: 1px;
     margin: 40px 60px 10px 20px;
     background-color: black;
 }
+.page36{
+    width: 860px;
+    height: 140px;
+    margin:20px 10px 30px 30px;
+    background-color: rebeccapurple;
+}
+.page37{
+    width: 820px;
+    height: 100px;
+    margin: 20px 20px 20px 20px;
+    background-color: red;
+}
+.page38{
+    width: 780;
+    height: 80;
+    margin: 20px 20px 10px 20px;
+    background-color: yellow;
+}
+.page4{
+    width: 1000px;
+    height: 1200;
+    margin: 40px 40px 40px 40px;
+    background-color: yellow;
+}
+.page41{
+    width: 960px;
+    height: 1160px;
+    margin: 20px 20px 20px 20px;
+    background-color: blue;
+}
+.page42{
+    width: 900px;
+    height: 1100px;
+    margin: 30px 30px 30px 30px;
+    background-color: red;
+}
+.page43{
+    width: 800px;
+    height: 500px;
+    margin: 20px 10px 20px 10px;
+    background-color: black;
 
+}
+.page44{
+    width: 700px;
+    height: 460px;
+    margin: 20px 30px 20px 30px;
+    background-color: beige;
+}
+.page45{
+    width: 800px;
+    height: 520px;
+    margin: 20px 30px 20px 30px;
+    background-color:black;
+}
+.page46{
+    width: 700px;
+    height: 460;
+    margin: 20px 30px 20px 30px;
+    background-color: beige;
+}
+.page47{
+    width: 650px;
+    height: 400px;
+    margin: 20px 30px 20px 30px;
+    background-color:yellowgreen;
+}
 
+.page5{
+    width: 900px;
+    height: 1480px;
+    margin: 70px 60px 70px 60px;
+    background-color: blueviolet;
+}
+.page52{
+    width: 800px;
+    height: 1200px;
+    margin: 20px 60px 20px 60px;
+    background-color: red;
+}
+.page53{
+    width: 760px;
+    height: 300px;
+    margin: 20px 30px 20px 30px;
+    background-color: blue;
+}
+.page54{
+    widows: 760px;
+    height: 300px;
+    margin:20px 30px 20px 30px;
+    background-color: blue;
+
+}
+.page55{
+    widows: 760px;
+    height: 300px;
+    margin: 20px 30px 20px 30px;
+    background-color: blue;
+
+}
+page56{
+    widows: 700px;
+    height: 200px;
+    margin: 0px 0px 0px 0px;
+    background-color: red;  
+}
